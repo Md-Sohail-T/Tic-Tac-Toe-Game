@@ -4,6 +4,7 @@ A simple Tic-Tac-Toe game implemented in Java using the Eclipse IDE.
 # Features ✨
 
 ✅ Play against another player (2-player mode).
+
 ✅ Implements basic game logic: win, lose, or draw detection.
 
 
