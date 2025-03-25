@@ -39,4 +39,4 @@ Git & GitHub (Version control)
 
 # Contact 📬
 
-Email: tadipatrimohammedsohail@gmail.com
+📧 Email: tadipatrimohammedsohail@gmail.com
