@@ -12,6 +12,7 @@ A simple Tic-Tac-Toe game implemented in Java using the Eclipse IDE.
 Clone the repository
 
 git clone https://github.com/Md-Sohail-T/Tic-Tac-Toe.git
+
 Open the project in Eclipse
 
  Go to File > Open Projects from File System > Select your project folder.
