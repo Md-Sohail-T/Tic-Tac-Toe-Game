@@ -11,7 +11,7 @@ A simple Tic-Tac-Toe game implemented in Java using the Eclipse IDE.
 # Installation & Running the Game 🚀
 Clone the repository
 
-git clone https://github.com/Md-Sohail-T/Tic-Tac-Toe.git
+git clone https://github.com/Md-Sohail-T/Tic-Tac-Toe-Game.git
 
 Open the project in Eclipse
 
